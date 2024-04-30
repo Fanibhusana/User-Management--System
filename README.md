@@ -1,78 +1,58 @@
-<h1 align="center">⚡Mo Management⚡</h1>
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#tools-and-technologies">Tools and Technologies</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#endpoints">Endpoints</a> •
-  <a href="#contributing">Contributing</a> 
+  <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/0652007e-aaaf-4fb7-a8da-805f6bdeb3c2"alt="Logo" width="400" height="250">
 </p>
+<h1 align="center">⚡Mo Management⚡</h1>
 
-## 🚀 Welcome to the Employee Management System REST API!
+## 🚀 Welcome to the User Management System !
 
-Manage your organization's workforce with ease using our powerful Employee Management System REST API. Streamline employee data management, access advanced analytics, and boost productivity.
+This project is a user management system developed using Java technologies such as JSP, Servlets, and JDBC. It follows the MVC (Model-View-Controller) architecture pattern for better code organization and maintainability. The system allows users to register, login, update their profiles, and perform other administrative tasks.
 
-## 🌟 Features
+---
 
-- ✅ Create, Read, Update, and Delete employees
-- 🔍 Search employees by various criteria
-- 🏢 Manage employee departments
-- 🔒 Authentication and authorization
-- 🚀 High-performance with Spring Boot
-- 📊 Advanced analytics and reporting
+## Technologies Used
 
-## 🛠️ Tools and Technologies
+- **Java** 🚀
+  - Core programming language
+- **JSP (JavaServer Pages)** 📝
+  - Presentation layer technology for creating dynamic web pages
+- **Servlets** 🌐
+  - Java classes that handle HTTP requests and responses
+- **Maven** 🛠️
+  - Build automation tool for managing dependencies and project structure
+- **Tomcat Server** 🚀
+  - Servlet container used for deploying and running the web application
+- **SQL** 📊
+  - Standardized language for managing relational databases
+- **MySQL** 🛢️
+  - Relational database management system used for storing user data
+- **JDBC (Java Database Connectivity)** 📂
+  - API for connecting Java applications to relational databases
+- **HTML** 🌐
+  - Markup language for creating web pages
+- **Bootstrap CSS** 🎨
+  - Front-end framework for creating responsive and visually appealing web interfaces
 
-- ⚙️ [Spring Boot](https://spring.io/projects/spring-boot)
-- 🔄 [Hibernate](https://hibernate.org/)
-- 🐬 [MySQL](https://www.mysql.com/)
-- 🛠️ [Lombok](https://projectlombok.org/)
-- ☕ [JDK](https://www.oracle.com/java/)
-- 🌐 [Tomcat](https://tomcat.apache.org/)
-- 🛠️ [Maven](https://maven.apache.org/)
-- 🛠️ [Spring Tool Suite (STS)](https://spring.io/tools)
+---
+## Features
 
-## 🚀 Getting Started
-
-1. **Clone the Repository**: `git clone https://github.com/Fanibhusana/Employee-Management-System-REST_API.git`
-
-2. **Configure Database**: Set up your MySQL database and update the `application.properties` file with your database credentials.
-
-3. **Open in STS**: Open the project in Spring Tool Suite (STS) or your preferred IDE.
-
-4. **Build and Run**: Build and run the application from your IDE.
-
-5. **Explore the API**: Access the API using Postman or your preferred API client.
-
-## 📝 Usage
-
-1. Ensure you have the necessary tools and technologies installed.
-2. Configure your MySQL database.
-3. Run the application.
-4. Explore the provided endpoints to manage employees and departments.
-
-## 📡 Endpoints
-
-Here are some of the key endpoints available in this API:
-
-- `GET /employees`: Retrieve a list of all employees.
-- `GET /employees/{id}`: Retrieve an employee by ID.
-- `POST /employees`: Create a new employee.
-- `PUT /employees/{id}`: Update an employee's information.
-- `DELETE /employees/{id}`: Delete an employee.
-- `GET /departments`: Retrieve a list of all departments.
-- `GET /departments/{id}`: Retrieve a department by ID.
-- `POST /departments`: Create a new department.
-- `PUT /departments/{id}`: Update a department's information.
-- `DELETE /departments/{id}`: Delete a department.
-
-For detailed documentation, refer to the API documentation or use Postman for testing.
-
+- **Login**: Allow users to authenticate and access the system securely. 🔒
+- **Registration**: Enable new users to create accounts and join the platform. 📝
+- **Add User**: Allow administrators to add new users to the system. ➕
+- **Delete User**: Provide administrators with the ability to remove users from the system. ❌
+- **Profile**: Allow users to view and manage their personal information. 👤
+- **Change Password**: Enable users to update their account passwords securely. 🔑
+- **Logout**: Allow users to safely log out of their accounts. 🚪
+- **Update User**: Provide administrators and users with the ability to update user information. 🔄
+---
+## 📸 Some Screenshots of my Project 
+- **Index Page**: <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/aac4ccd6-de98-40a3-8764-14449cb59b38" alt="Logo" width="800" height="450"> <br>
+- **Registration Page**:  <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/ccc491e4-6a8b-4048-8669-efb0439847e3" alt="Logo" width="800" height="450"> <br>
+- **Login Page**:<br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/6c7b627c-e1f8-4b45-8b62-c6bbcc5e875c" alt="Logo" width="800" height="450"> <br>
+- **Home Page**: <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/f6227a20-80c2-47a3-b0ab-4b36617a327e" alt="Logo" width="800" height="450"> <br>
+---
 ## 🤝 Contributing
 
 We welcome contributions! Please [Feel free to reach out to me](https://forms.gle/5VPwFY7KtV1V6W4i8) to get started.
-
-
 ---
 
 <p align="center">
