@@ -45,10 +45,10 @@ This project is a user management system developed using Java technologies such 
 - **Update User**: Provide administrators and users with the ability to update user information. 🔄
 ---
 ## 📸 Some Screenshots of my Project 
-- **Index Page**: <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/aac4ccd6-de98-40a3-8764-14449cb59b38" alt="Logo" width="800" height="450"> <br>
-- **Registration Page**:  <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/ccc491e4-6a8b-4048-8669-efb0439847e3" alt="Logo" width="800" height="450"> <br>
-- **Login Page**:<br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/6c7b627c-e1f8-4b45-8b62-c6bbcc5e875c" alt="Logo" width="800" height="450"> <br>
-- **Home Page**: <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/f6227a20-80c2-47a3-b0ab-4b36617a327e" alt="Logo" width="800" height="450"> <br>
+- **Index Page**: <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/aac4ccd6-de98-40a3-8764-14449cb59b38" alt="Logo" width="800" height="420"> <br>
+- **Registration Page**:  <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/ccc491e4-6a8b-4048-8669-efb0439847e3" alt="Logo" width="800" height="420"> <br>
+- **Login Page**:<br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/6c7b627c-e1f8-4b45-8b62-c6bbcc5e875c" alt="Logo" width="800" height="420"> <br>
+- **Home Page**: <br> <img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/f6227a20-80c2-47a3-b0ab-4b36617a327e" alt="Logo" width="800" height="420"> <br>
 ---
 ## 🤝 Contributing
 
