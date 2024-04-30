@@ -1,7 +1,7 @@
 <%@page import="com.org.dto.User"%>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="home.jsp">MoManagement</a>
+			<a class="navbar-brand" href="home.jsp"><img src="logo.png" width="200" height="50" class="d-inline-block align-top" alt="MoManagement"></a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 				aria-controls="navbarSupportedContent" aria-expanded="false"
